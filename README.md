@@ -1,4 +1,4 @@
-# AvgLengthByFirstChar-and-MinPairDist
+# AvgLengthByFirstChar&MinPairDist
 /To Do/
 
 +mvn clean package 
